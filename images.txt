@@ -11,3 +11,4 @@ homeassistant/home-assistant:latest
 neosmemo/memos:latest
 excalidraw/excalidraw:latest
 frooodle/s-pdf:latest
+alexxit/go2rtc
