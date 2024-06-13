@@ -6,3 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 dreamacro/clash
 haishanh/yacd
+portainer/portainer-ce:latest
+homeassistant/home-assistant:latest
+neosmemo/memos:latest
+excalidraw/excalidraw:latest
+frooodle/s-pdf:latest
