@@ -8,3 +8,4 @@ neosmemo/memos:latest
 excalidraw/excalidraw:latest
 frooodle/s-pdf:latest
 alexxit/go2rtc
+moelin/1panel
